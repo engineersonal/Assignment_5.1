@@ -1,0 +1,17 @@
+header,aside,nav,main,section,article,footer{
+    background: linear-gradient(lightyellow,yellow);  
+    height: 70px; 
+    padding-bottom:20px; 
+    border: 1px;  
+}
+div{
+    width:140px; 
+    height: 70px;
+    padding:10px;
+    margin-left:0;
+    text-align:center;
+    background-color: blue;
+    color:white;
+    border-radius: 50%;
+    
+}
